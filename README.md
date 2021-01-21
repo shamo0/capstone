@@ -23,9 +23,11 @@ Our group used Application Programming Interfaces (APIs) to scrape information r
 
 Using all this data we can later determine which users were the most active, what were the different ways they tried to influence the elections etc.
 
+
 ## Data Sources
 
-Twitter: Data collected by Professor Edwards
+Twitter: Data collected by using tweepy 
+https://github.com/tweepy/tweepy
 
 Instagram: Data collected by using instagram-scraper from GitHub
 https://github.com/arc298/instagram-scraper
@@ -34,11 +36,20 @@ Tik Tok: Data collected by using tiktok scraper
 https://github.com/drawrowfly/tiktok-scraper	
 
 
+## Data Analysis
+
+Used NLTK sentiment analysis to analyze the sentiment of the tweets gathered using certain hashtags related to the elections.
+
+Created word clouds for different data sets from September, October abd November with over a million tweets. The word clouds can be found under wordcloud directory in Jupyter Notebooks.
+
+
 ## Looking Ahead
 
 Short term: Narrow down the patterns that active users are employing.
 
-Mid term: Collect/analyze data before the election.
-
 Long term: Use AI to analyze large data sets to help form conclusions and determine if it could have had an effect on the 2020 election.
+
+## Work in Progress
+
+This is a work in progress. Any recommendations or collaboration is welcome and highly appreciated!
 
