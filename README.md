@@ -1,6 +1,4 @@
-# Capstone Project
-
-## Analyzing Twitter’s Influence on the 2020 Election
+# Analyzing Twitter’s Influence on the 2020 Election
 
 ## Purpose
 
