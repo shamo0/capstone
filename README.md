@@ -2,12 +2,6 @@
 
 ## Analyzing Twitter’s Influence on the 2020 Election
 
-## Authors:
-- Genadi Shamugia
-- Ryan Serrato
-- Ezrah Itkowsky
-- Jackson Stallone
-
 ## Purpose
 
 - Analyze data from social media sites to understand how certain groups are trying to manipulate the election. 
@@ -64,6 +58,12 @@ In an effort to identify popular users that were spreading disinformation, we ne
 
 ## Conclusion
 By analysing research of social media’s impact during the 2016 presidential election, gathering data from the most recent election, and taking into account the actions of Twitter and government agencies, we found Twitter had a negligible effect on the outcome of the 2020 presidential election.
+
+### Authors:
+- Genadi Shamugia
+- Ryan Serrato
+- Ezrah Itkowsky
+- Jackson Stallone
 
 
 
