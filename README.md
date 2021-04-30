@@ -1,5 +1,8 @@
 # Analyzing Twitter’s Influence on the 2020 Election
 
+![poster](Poster.jpg)
+
+
 ## Purpose
 
 - Analyze data from social media sites to understand how certain groups are trying to manipulate the election. 
